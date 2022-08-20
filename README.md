@@ -2,7 +2,7 @@
 <h3 align="center">Coding is my job and hobby!</h3>
 
 - 🔭 I’m constantly expanding my knowledge on how computers can work together :)
-- 🌱 I’m currently learning K8s, the serverless framework, and considering learning Go due to its concise syntax, speed, support for multithreading, and great community
+- 🌱 I’m currently learning K8s, the serverless framework, and considering learning Go
 - 👯 I’m looking to collaborate on projects based on Node.js or Java, or any other language in case you don't mind me taking the time to learn!
 - 💬 Ask me about computers, distributed systems, networking, database engines, or satellite propulsion systems
 - 📫 How to reach me: allanlvaf@gmail.com, or hit me up on [LinkedIn](https://www.linkedin.com/in/allan-limaverde/)
